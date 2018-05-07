@@ -6,7 +6,7 @@ This is the source code of our Neurocomputing 2017 paper "[Cross-media Retrieval
 
 ## Usage
 
-Dataset——Wikipedia
+Dataset——Wikipedia, which can be downloaded from the [link](http://59.108.48.34/tiki/tiki-download_file.php?fileId=1009) and unzipped to ./ folder.
 
     Directory：./data/Wiki
     Text feature：./data/Wiki/LDA_200_Gibbs2000.mat （200 dimension）  
@@ -15,6 +15,7 @@ Dataset——Wikipedia
     Testing label：./data/Wiki/testset_txt_img_cat.list  
 
 Training set：2173 image/text pairs
+
 Testing set：693 image/text pairs
 
 
