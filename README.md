@@ -1,5 +1,7 @@
-# DPEP
-Source code of our Neurocomputing 2017 paper "Cross-media Retrieval by Exploiting Fine-Grained Correlation at Entity Level".
+## Introduction
+This is the source code of our Neurocomputing 2017 paper "]Cross-media Retrieval by Exploiting Fine-Grained Correlation at Entity Level](http://59.108.48.34/tiki/download_paper.php?fileId=344)", please cite the following paper if you use our code.
+
+    Lei Huang and Yuxin Peng, "Cross-media Retrieval by Exploiting Fine-Grained Correlation at Entity Level", Neurocomputing, Vol. 236, pp. 123-133, May. 2017.
 
 Dataset——Wikipedia
 
@@ -14,3 +16,6 @@ Testing set：693 image/text pairs
 
 
 Run code：./DPEP/mainWiki.m
+
+## Related Link
+Welcome to our [Laboratory Homepage](http://www.icst.pku.edu.cn/mipl) for more information about our papers, source codes, and datasets.
